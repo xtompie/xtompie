@@ -8,4 +8,7 @@ PHP Components/Libraries
 
 Laravel extensions
 - [Lainstance](https://github.com/xtompie/lainstance) DI Container extension for resolving and defining singletons alongside classes
-- [Lasorter](https://github.com/xtompie/lasorter) sorter macro for Collection
+- [Lasorter](https://github.com/xtompie/lasorter) Sorter macro for Collection
+
+Other
+- [git tree](https://gist.github.com/xtompie/6040a2a3fb1202d0f882f0cff85da1ec)
