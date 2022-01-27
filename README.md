@@ -7,7 +7,8 @@ PHP Components/Libraries
 - [Sorter](https://github.com/xtompie/sorter) - Sort multidimensional array by multiple criteria like columns, keys, any deep value
 - [Guard](https://github.com/xtompie/guard) - Container object for dealing with optional/null values
 
-Laravel extensions
+Laravel
+- [Laravel Modular Monolith](https://github.com/xtompie/laravel-modular-monolith) Skeleton of Modular Monolith in Laravel
 - [Lainstance](https://github.com/xtompie/lainstance) DI Container extension for resolving and defining singletons alongside classes
 - [Lasorter](https://github.com/xtompie/lasorter) Sorter macro for Collection
 
