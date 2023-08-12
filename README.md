@@ -1,5 +1,6 @@
 
 PHP Components/Libraries
+- [Flux](https://github.com/xtompie/flux) - Event and Log Management Tool
 - [Result](https://github.com/xtompie/result) - Handling failures, input errors
 - [Validation](https://github.com/xtompie/validation) - Flexible validation
 - [AQL](https://github.com/xtompie/aql) - Array Query Language - building SQL using array
