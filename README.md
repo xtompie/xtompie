@@ -7,8 +7,10 @@
 - [Result](https://github.com/xtompie/result) - Handling failures, input errors
 - [Validation](https://github.com/xtompie/validation) - Flexible validation
 - [AQL](https://github.com/xtompie/aql) - Array Query Language - building SQL using array
-- [AOP](https://github.com/xtompie/aop) - Aspect-Orientend Programing
 - [DAO](https://github.com/xtompie/dao) - Data Access Object - wrapper over SQL
+- [Aspect](https://github.com/xtompie/aspect) - Aspect-Orientend Programing (attributes)
+- [AOP](https://github.com/xtompie/aop) - Aspect-Orientend Programing  (loose cutpoints)
+- [DX](https://github.com/xtompie/dx) - JavaScript Architecture Pattern
 - [Sorter](https://github.com/xtompie/sorter) - Sort multidimensional array by multiple criteria like columns, keys, any deep value
 - [Monitor](https://github.com/xtompie/monitor) - Monitor long running script
 - [Middleware](https://github.com/xtompie/middleware) - Middleware component
