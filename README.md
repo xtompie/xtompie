@@ -2,24 +2,26 @@
 
 ## PHP Components/Libraries
 
-- [Typed](https://github.com/xtompie/typed) - Primitives as Typed Objects
-- [Flux](https://github.com/xtompie/flux) - Event and Log Management Tool
-- [Result](https://github.com/xtompie/result) - Handling failures, input errors
-- [Validation](https://github.com/xtompie/validation) - Flexible validation
-- [AQL](https://github.com/xtompie/aql) - Array Query Language - building SQL using array
-- [DAO](https://github.com/xtompie/dao) - Data Access Object - wrapper over SQL
-- [Aspect](https://github.com/xtompie/aspect) - Aspect-Orientend Programing (attributes)
 - [AOP](https://github.com/xtompie/aop) - Aspect-Orientend Programing  (loose cutpoints)
+- [AQL](https://github.com/xtompie/aql) - Array Query Language - building SQL using array
+- [Aspect](https://github.com/xtompie/aspect) - Aspect-Orientend Programing (attributes)
+- [Collection-Trait](https://github.com/xtompie/collection-trait) - Traits to build collections of specific objects
+- [Collection](https://github.com/xtompie/collection) - Wrapper for arrays
+- [DAO](https://github.com/xtompie/dao) - Data Access Object - wrapper over SQL
 - [DX](https://github.com/xtompie/dx) - JavaScript Architecture Pattern
-- [Sorter](https://github.com/xtompie/sorter) - Sort multidimensional array by multiple criteria like columns, keys, any deep value
-- [Monitor](https://github.com/xtompie/monitor) - Monitor long running script
-- [Middleware](https://github.com/xtompie/middleware) - Middleware component
+- [Flux](https://github.com/xtompie/flux) - Event and Log Management Tool
 - [Guard](https://github.com/xtompie/guard) - Container object for dealing with optional/null values
+- [Middleware](https://github.com/xtompie/middleware) - Middleware component
+- [Monitor](https://github.com/xtompie/monitor) - Monitor long running script
+- [Result](https://github.com/xtompie/result) - Handling failures, input errors
+- [Sorter](https://github.com/xtompie/sorter) - Sort multidimensional array by multiple criteria like columns, keys, any deep value
+- [Typed](https://github.com/xtompie/typed) - Primitives as Typed Objects
+- [Validation](https://github.com/xtompie/validation) - Flexible validation
 
 ## Laravel
 
-- [Laravel Modular Monolith](https://github.com/xtompie/laravel-modular-monolith) Skeleton of Modular Monolith in Laravel
 - [Lainstance](https://github.com/xtompie/lainstance) DI Container extension for resolving and defining singletons alongside classes
+- [Laravel Modular Monolith](https://github.com/xtompie/laravel-modular-monolith) Skeleton of Modular Monolith in Laravel
 - [Lasorter](https://github.com/xtompie/lasorter) Sorter macro for Collection
 
 ## Other
