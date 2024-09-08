@@ -18,8 +18,8 @@
 - [Result](https://github.com/xtompie/result) - Handling failures, input errors
 - [Sorter](https://github.com/xtompie/sorter) - Sort multidimensional array by multiple criteria like columns, keys, any deep value
 - [Tpl](https://github.com/xtompie/tpl) - Native PHP template system
-- [Typed](https://github.com/xtompie/typed) - Primitives as Typed Objects
-- [Validation](https://github.com/xtompie/validation) - Flexible validation
+- [Typed](https://github.com/xtompie/typed) - Primitives as Typed Objects, data validation
+- [Validation](https://github.com/xtompie/validation) - Flexible data validation
 
 ## Laravel
 
