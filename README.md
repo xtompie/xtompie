@@ -9,7 +9,7 @@
 - [Collection](https://github.com/xtompie/collection) - Wrapper for arrays
 - [Container](https://github.com/xtompie/container) - DI Container
 - [DAO](https://github.com/xtompie/dao) - Data Access Object - wrapper over SQL
-- [DX-SPA-TODO](https://github.com/xtompie/dx-spa-todo) - JavaScript framework less SPA, no NPM, zero depedencies
+- [DX-SPA](https://github.com/xtompie/dx-spa) - JavaScript SPA, framework less, no NPM, zero depedencies
 - [DX-VAL](https://github.com/xtompie/dx-val) - DOM as a model, getting, setting values, rendering engine
 - [DX](https://github.com/xtompie/dx) - JavaScript Architecture Pattern
 - [Flux](https://github.com/xtompie/flux) - Event and Log Management Tool
