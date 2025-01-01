@@ -11,7 +11,7 @@
 - [DAO](https://github.com/xtompie/dao) - Data Access Object - wrapper over SQL
 - [DX](https://github.com/xtompie/dx) - JavaScript Architecture Pattern
 - [DX-VAL](https://github.com/xtompie/dx-val) - DOM as a model, getting, setting values, rendering engine
-- [DX-VAL-TODO](https://github.com/xtompie/dx-val-todo) - JavaScript framework less SPA, no NPM, zero depedencies
+- [DX-SPA-TODO](https://github.com/xtompie/dx-spa-todo) - JavaScript framework less SPA, no NPM, zero depedencies
 - [Flux](https://github.com/xtompie/flux) - Event and Log Management Tool
 - [Guard](https://github.com/xtompie/guard) - Container object for dealing with optional/null values
 - [Middleware](https://github.com/xtompie/middleware) - Middleware component
