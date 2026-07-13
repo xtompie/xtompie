@@ -6,6 +6,10 @@ Open source projects and libraries.
 
 - [Saradom](https://xtompie.github.io/saradom/) — Frontend architecture pattern
 
+## Claude Code
+
+- [Prism](https://github.com/xtompie/prism) — Thinking lenses skill for a thought-out answer instead of a generic one
+
 ## PHP
 
 - [Container](https://github.com/xtompie/container) — Dependency injection container
