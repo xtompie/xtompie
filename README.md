@@ -8,6 +8,8 @@ Open source projects and libraries.
 
 ## Claude Code
 
+- [Blackbar](https://github.com/xtompie/blackbar) — Local proxy that redacts sensitive data before it leaves your machine, and restores it in the reply
+- [Expert](https://github.com/xtompie/expert) — Summon opinionated domain experts to weigh in on your problem
 - [Prism](https://github.com/xtompie/prism) — Thinking lenses skill for a thought-out answer instead of a generic one
 
 ## PHP
