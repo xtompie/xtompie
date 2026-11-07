@@ -10,6 +10,7 @@ Open source projects and libraries.
 
 - [Blackbar](https://github.com/xtompie/blackbar) — Local proxy that redacts sensitive data before it leaves your machine, and restores it in the reply
 - [Cortex](https://github.com/xtompie/cortex) — Personal knowledge base maintained by an LLM agent. A topic-based LLM wiki
+- [Droid](https://github.com/xtompie/droid) — Persistent topic workers. Each droid keeps its own wiki and inbox
 - [Expert](https://github.com/xtompie/expert) — Summon opinionated domain experts to weigh in on your problem
 - [Prism](https://github.com/xtompie/prism) — Thinking lenses skill for a thought-out answer instead of a generic one
 
