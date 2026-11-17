@@ -4,7 +4,7 @@ Open source projects and libraries.
 
 ## Methods
 
-- [Kettle](https://github.com/xtompie/kettle) — Put the kettle on first. Start first what others are waiting for
+- [Kettle](https://github.com/xtompie/kettle) — A task ordering method: hand off first, prepare for others next, do your own work last
 - [P4](https://github.com/xtompie/p4) — Describe software as precise processes, at four levels of detail
 - [Saradom](https://xtompie.github.io/saradom/) — Frontend architecture pattern
 
