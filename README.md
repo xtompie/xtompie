@@ -2,16 +2,10 @@
 
 Open source projects and libraries.
 
-## Software design
-
-- [P4](https://github.com/xtompie/p4) — Describe software as precise processes, at four levels of detail
-
-## Ways of working
+## Methods
 
 - [Kettle](https://github.com/xtompie/kettle) — Put the kettle on first. Start first what others are waiting for
-
-## Frontend
-
+- [P4](https://github.com/xtompie/p4) — Describe software as precise processes, at four levels of detail
 - [Saradom](https://xtompie.github.io/saradom/) — Frontend architecture pattern
 
 ## Claude Code
