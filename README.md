@@ -16,6 +16,7 @@ Open source projects and libraries.
 - [Cortex](https://github.com/xtompie/cortex) — Personal knowledge base maintained by an LLM agent. A topic-based LLM wiki
 - [Droid](https://github.com/xtompie/droid) — Persistent topic workers. Each droid keeps its own wiki and inbox
 - [Expert](https://github.com/xtompie/expert) — Summon opinionated domain experts to weigh in on your problem
+- [Mentor](https://github.com/xtompie/mentor) — Turn a session into rules for the model, or lessons for you
 - [Prism](https://github.com/xtompie/prism) — Thinking lenses skill for a thought-out answer instead of a generic one
 
 ## PHP
